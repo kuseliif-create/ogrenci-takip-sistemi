@@ -1,0 +1,20 @@
+
+# Kişisel veritabanı ve yedekleri
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Gizli ayarlar ve anahtarlar
+.env
+.env.*
+
+# VS Code kişisel ayarları
+.vscode/
+
